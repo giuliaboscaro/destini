@@ -5,7 +5,7 @@ Each answer chosen in each story leads to a different path, as shown on the map 
 
 ![](destini_story-structure.png)
 
-This app was created through the 9th module of Angela Yu appbrewery's course on Udemy.
+This app was created through the 10th module of Angela Yu appbrewery's course on Udemy.
 
 # This is the final result
 
